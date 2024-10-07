@@ -5,7 +5,7 @@
 
 📚 I'm currently a contributor and fellow at [Open Library](https://openlibrary.org/)
 
-⚡ Fun fact **I love music,mountains and mindfulness!**
+
 
 <p align="left">
 </p>
