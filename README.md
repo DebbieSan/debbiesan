@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debbiesan&label=Profile%20views&color=0e75b6&style=flat" alt="debbiesan" /> </p>
 
-- Hi, I'm currently a contributor and fellow at [Open Library](https://openlibrary.org/)
+- I'm currently a contributor and fellow at [Open Library](https://openlibrary.org/)
 
 - ⚡ Fun fact **I love music,mountains and mindfulness!**
 
