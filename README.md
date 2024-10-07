@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **I love music,mountains and mindfulness!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
