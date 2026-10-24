@@ -27,7 +27,7 @@ DevOps · Automation · Cybersecurity
 
 ## Selected Projects
 
-#### 🐝 [BusyBussBee — Java Task Manager](https://github.com/DebbieSan/java/tree/master/BusyBussBeeGUI))
+#### 🐝 [BusyBussBee — Java Task Manager](https://github.com/DebbieSan/java/tree/master/BusyBussBeeGUI)
 
 A Java desktop app for organizing everyday tasks through a simple Swing interface.
 
